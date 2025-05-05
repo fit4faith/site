@@ -1,0 +1,132 @@
+// @layer base {
+//   :root {
+//     --color-primary: 75 38 143; /* 135 94 212 */
+//     --color-secondary: 107 154 199;
+//     --color-accent: 119 112 150;
+//     --color-warning: 202 121 45;
+//     --color-danger: 180 25 14;
+//     --color-success: 77 137 101;
+//     --color-dark: 25 28 38;
+//     --color-light: 243 241 239;
+//     --color-info: 25 28 38;
+
+//     --spacing: 1rem;
+//     --w-xl: 75rem;
+//     --w-lg: 65rem;
+//     --w-md: 55rem;
+//     --w-sm: 40rem;
+//     --w-container: 55rem;
+//   }
+
+//   [data-theme="dark"] {
+//     body {
+//       --color-primary: 135 94 212;
+//       --color-secondary: 107 154 199;
+//       --color-accent: 119 112 150;
+//       --color-warning: 202 121 45;
+//       --color-danger: 180 25 14;
+//       --color-success: 77 137 101;
+//       --color-dark: 25 28 38;
+//       --color-light: 243 241 239;
+//       --color-info: 25 28 38;
+//     }
+//   }
+// }
+
+
+html {
+  @apply text-base;
+}
+
+body {
+  @apply leading-tight font-sans font-extralight dark:prose-invert dark:bg-zinc-900 dark:text-white pt-20;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply font-sans font-medium leading-snug mt-4 mb-2;
+}
+
+h1,
+.h1 {
+  @apply text-6xl;
+}
+
+h2,
+.h2 {
+  @apply text-4xl;
+}
+
+h3,
+.h3 {
+  @apply text-2xl;
+}
+
+h4,
+.h4 {
+  @apply text-xl;
+}
+
+h5,
+.h5 {
+  @apply text-lg;
+}
+
+h6,
+.h6 {
+  @apply text-lg;
+}
+
+a {
+  @apply hover:text-primary transition duration-300;
+}
+
+p,
+.p{
+  @apply my-2;
+}
+
+code {
+  @apply inline-flex p-5 bg-gray-100 dark:bg-zinc-900;
+}
+
+blockquote {
+  @apply border-l-4 border-primary italic my-8 pl-8 md:pl-12;
+}
+
+table {
+  @apply table-auto min-w-full w-full text-left text-sm font-light text-zinc-600 dark:text-white;
+}
+
+table thead {
+  @apply border-b border-neutral-200 bg-white font-medium dark:border-white/10 dark:bg-zinc-900;
+}
+
+table tr {
+  @apply border-b border-neutral-200 bg-white/[0.10] dark:bg-white/[0.02] dark:border-white/10;
+}
+
+table tr:nth-child(odd) {
+  @apply bg-black/[0.02] dark:bg-black/[0.10];
+}
+
+table th {
+  @apply bg-white dark:bg-zinc-900;
+}
+
+table th,
+table td {
+  @apply px-6 py-4;
+}
+
+table img {
+  @apply max-w-32 rounded-lg;
+}
+
+ol li {
+  @apply list-decimal list-inside marker:text-primary;
+}

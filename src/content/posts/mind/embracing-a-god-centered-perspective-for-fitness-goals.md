@@ -8,7 +8,7 @@ tags:
   - motivation
   - journey
   - positivity
-pubDate: 2023-06-26
+pubDate: 2023-06-24
 cover: "../assets/images/embracing-a-god-centered-perspective-for-fitness-goals.webp"
 author: Damien Wright
 draft: false

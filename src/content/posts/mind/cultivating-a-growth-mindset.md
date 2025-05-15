@@ -3,7 +3,7 @@ slug: cultivating-a-growth-mindset
 title: "Cultivating a Growth Mindset: Overcoming Challenges in Your Side Hustle"
 description: "In today's dynamic economy, more individuals are embracing side hustles—pursuing passions and skills outside their primary jobs."
 category:
-  - mindset
+  - mind
 tags:
   - motivation
   - journey

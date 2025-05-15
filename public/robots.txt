@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fitstud.io/sitemap-index.xml
+Sitemap: https://fit4faith.org/sitemap-index.xml

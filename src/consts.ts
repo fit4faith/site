@@ -3,9 +3,10 @@
 
 // Base Page Metadata, src/layouts/BaseLayout.astro
 export const BRAND_NAME = "FIT4FAITH";
-export const SITE_TITLE = "HUZL";
-export const BRAND_FOOT = "HUZL LLC";
-export const SITE_DESCRIPTION = "Find your side hustle, get that hustle mindset, live your life!";
+export const SITE_TITLE = "FIT4FAITH.ORG";
+export const SITE_URL   = "fit4faith.org";
+export const BRAND_FOOT = "FIT4FAITH.ORG";
+export const SITE_DESCRIPTION = "Find strength in both body & soul. This blog blends fitness with faith, offering workouts, recipes, & stories to inspire holistic well-being";
 
 // Tags Page Metadata, src/pages/tags/index.astro
 export const Tags_TITLE = "FIT4FAITH - All Tags";
@@ -29,9 +30,9 @@ export function getCategoryMetadata(category: string) {
 
 // Header Links, src/components/Header.astro
 export const HeaderLinks = [
-  { href: "/category/hustles/1/", title: "Hustles" },
-  { href: "/category/mindset/1/", title: "Mindset" },
-  { href: "/category/finance/1/", title: "Finance" },
+  { href: "/category/mind/1/", title: "Mind" },
+  { href: "/category/body/1/", title: "Body" },
+  { href: "/category/spirit/1/", title: "Spirit" },
   { href: "/category/podcast/1/", title: "Podcast" },
 ];
 
@@ -39,7 +40,7 @@ export const HeaderLinks = [
 export const FooterLinks = [
   { href: "/about/", title: "About" },
   { href: "/contact/", title: "Contact" },
-  { href: "/partners/", title: "Partners" },
+  { href: "/events/", title: "Events" },
   // { href: "/", title: "Swag" },
 ];
 
@@ -53,22 +54,27 @@ export const LegalLinks = [
 export const SocialLinks = [
   { href: "/rss.xml", icon: "tabler:rss", label: "RSS" },
   {
-    href: "https://instagram.com/huzl_org",
+    href: "https://instagram.com/fit4faith_org",
     icon: "tabler:brand-instagram",
     label: "Instagram",
   },
   {
-    href: "https://x.com/huzl_org",
+    href: "https://tiktok.com/@fit4faith.org",
+    icon: "tabler:brand-tiktok",
+    label: "TikTok",
+  },
+  {
+    href: "https://x.com/fit4faith_org",
     icon: "tabler:brand-x",
     label: "X",
   },
   {
-    href: "https://github.com/huzl-org",
+    href: "https://github.com/fit4faith",
     icon: "tabler:brand-github",
     label: "GitHub",
   },
   {
-    href: "https://youtube.com/@huzl-org",
+    href: "https://youtube.com/@fit4faith-org",
     icon: "tabler:brand-youtube",
     label: "YouTube",
   },

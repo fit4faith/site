@@ -8,7 +8,7 @@ export default {
   theme: {
     fontFamily: {
       sans: [
-        "Poppins",
+        "Lexend",
         "Helvetica",
         "Arial",
         "sans-serif",
@@ -29,7 +29,7 @@ export default {
     },
     extend: {
       colors: {
-        primary: '#dc2626',
+        primary: '#fe646f',
         secondary: 'var(--fs-color-secondary)',
         accent: 'var(--fs-color-accent)',
         default: 'var(--fs-color-text-default)',

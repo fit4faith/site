@@ -3,7 +3,7 @@ slug: debt-freedom-strategies
 title: "Debt Freedom: Strategies for Paying Off Debt and Achieving Financial Independence"
 description: "Debt can feel like a trapping burden, influencing every aspect of your daily life and making the path to financial independence seem daunting."
 category:
-  - finance
+  - body
 tags:
   - budget
   - income

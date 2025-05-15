@@ -17,7 +17,7 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   output: 'static',
 
-  site: "https://FIT4FAITH/",
+  site: "https://fit4faith.org/",
   trailingSlash: "ignore",
   prefetch: {
     prefetchAll: true,

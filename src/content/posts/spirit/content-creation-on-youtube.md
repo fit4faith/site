@@ -3,7 +3,7 @@ slug: content-creation-on-youtube
 title: "Content Creation on YouTube: Building Your Channel from Scratch"
 description: "In the vast landscape of digital content, YouTube has firmly established itself as one of the most influential platforms for creators around the world."
 category:
-  - hustles
+  - spirit
 tags:
   - niche
   - content

@@ -48,7 +48,7 @@ h3,
 h4,
 h5,
 h6 {
-  @apply font-sans font-medium leading-snug mt-4 mb-2;
+  @apply font-sans font-medium leading-snug tracking-tight mt-4 mb-2;
 }
 
 h1,
@@ -129,4 +129,15 @@ table img {
 
 ol li {
   @apply list-decimal list-inside marker:text-primary;
+}
+
+@keyframes beat {
+  75% {
+    transform: scale(2);
+    opacity: 0.5
+  }
+}
+
+.animate-beat {
+  animation: beat 1s cubic-bezier(0, 0, 0.2, 1) infinite
 }

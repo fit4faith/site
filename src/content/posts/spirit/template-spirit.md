@@ -3,7 +3,7 @@ slug: hustles
 title: ""
 description: ""
 category:
-  - hustles
+  - spirit
 tags:
   - minimalism
   - expenses

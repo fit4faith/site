@@ -1,11 +1,11 @@
 ---
-slug: finance
+slug: mindset
 title: ""
 description: ""
 category:
-  - finance
+  - mind
 tags:
-  - minimalism
+  - miimalism
   - expenses
   - freedom
 pubDate: 2023-08-20

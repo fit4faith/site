@@ -68,9 +68,9 @@ Whether through a faith-based fitness group, a prayer partner, or a church commu
 
 ### Celebrating Progress with Humility
 
-As we see progress—whether in strength, endurance, or discipline—it’s important to remain humble and give glory to God. Recognizing that our abilities and accomplishments are gifts from Him helps prevent pride and keeps our hearts aligned with His will.
+As we see progress—whether in strength, endurance, or discipline—it's important to remain humble and give glory to God. Recognizing that our abilities and accomplishments are gifts from Him helps prevent pride and keeps our hearts aligned with His will.
 
-1 Corinthians 4:7 asks, “What do you have that you did not receive?” This perspective fosters gratitude and humility, reminding us that every achievement is rooted in God's grace.
+1 Corinthians 4:7 asks, "What do you have that you did not receive?" This perspective fosters gratitude and humility, reminding us that every achievement is rooted in God's grace.
 
 ### Living Out the Gospel in Our Fitness Journey
 

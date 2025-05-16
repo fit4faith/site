@@ -1,5 +1,5 @@
 ---
-slug: finance
+slug: body
 title: ""
 description: ""
 category:

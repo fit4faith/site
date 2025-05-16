@@ -1,7 +1,7 @@
 ---
 slug: strengthening-faith-and-body-overcoming-obstacles-with-divine-motivation
 title: "Strengthening Faith and Body: Overcoming Obstacles with Divine Motivation"
-description: "Life is a journey filled with peaks and valleys, moments of triumph and times of challenge. "
+description: "Life is a journey filled with peaks and valleys, moments of triumph and times of challenge."
 category:
   - mind
 tags:
@@ -46,9 +46,9 @@ Similarly, individuals facing mental or emotional obstacles—such as depression
 
 **1. Set Intentional Goals Rooted in Faith:** Whether it’s committing to a daily prayer or meditation routine, or aiming for a physical milestone, aligning goals with spiritual values creates a sense of purpose that sustains motivation.
 
-**Incorporate Spiritual Practices into Fitness Routines:** Listening to uplifting music, reciting affirmations, or practicing mindful movement can transform workouts into sacred acts.
+**2. Incorporate Spiritual Practices into Fitness Routines:** Listening to uplifting music, reciting affirmations, or practicing mindful movement can transform workouts into sacred acts.
 
-**3. 2. Lean on Community:** Connecting with faith-based groups or fitness communities provides accountability, encouragement, and shared wisdom. Together, faith and friendship can bolster resilience.
+**3. Lean on Community:** Connecting with faith-based groups or fitness communities provides accountability, encouragement, and shared wisdom. Together, faith and friendship can bolster resilience.
 
 **4. Reflect on Personal Progress:** Celebrating small victories—be it a prayer answered or a physical milestone—reinforces faith and fosters a positive outlook.
 

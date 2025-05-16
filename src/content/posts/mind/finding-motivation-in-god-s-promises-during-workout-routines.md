@@ -5,11 +5,11 @@ description: "There’s something uniquely motivating about hitting the gym or g
 category:
   - mind
 tags:
-  - miimalism
-  - expenses
-  - freedom
+  - motivation
+  - promises
+  - workout
 pubDate: 2023-08-20
-cover: "../assets/images/inding-motivation-in-god-s-promises-during-workout-routines.webp"
+cover: "../assets/images/finding-motivation-in-god-s-promises-during-workout-routines.webp"
 author: Damien Wright
 draft: false
 ---

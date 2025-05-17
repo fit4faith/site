@@ -11,7 +11,7 @@ tags:
 pubDate: 2025-04-01
 cover: "../assets/images/the-body-as-a-temple-living-out-your-faith-through-fitness.webp"
 author: Damien Wright
-draft: true
+draft: false
 ---
 
 One of the most profound and inspiring metaphors is that of the body as a temple—an image that calls us to treat our physical selves with reverence, care, and respect. This metaphor isn’t just poetic; it’s a powerful reminder of our divine stewardship over the gift of life and the importance of aligning our lifestyle choices with our faith.

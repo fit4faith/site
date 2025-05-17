@@ -1,5 +1,5 @@
 ---
-slug: hustles
+slug: spirit
 title: ""
 description: ""
 category:

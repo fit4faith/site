@@ -11,7 +11,7 @@ tags:
 pubDate: 2024-10-22
 cover: "../assets/images/restoring-your-spirit-the-importance-of-rest-and-renewal-in-faith-and-fitness.webp"
 author: Damien Wright
-draft: true
+draft: false
 ---
 
 ### The Power of Sacred Pauses

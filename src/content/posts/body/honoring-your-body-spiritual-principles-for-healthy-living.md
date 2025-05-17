@@ -5,9 +5,9 @@ description: "Our bodies are more than just vessels that carry us from place to 
 category:
   - body
 tags:
-  - minimalism
-  - expenses
-  - freedom
+  - spiritual
+  - principles
+  - honoring
 pubDate: 2025-02-16
 cover: "../assets/images/honoring-your-body-spiritual-principles-for-healthy-living.webp"
 author: Damien Wright

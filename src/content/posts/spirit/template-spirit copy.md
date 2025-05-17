@@ -1,15 +1,15 @@
 ---
-slug: hustles
+slug: restoring-your-spirit-the-importance-of-rest-and-renewal-in-faith-and-fitness
 title: "Restoring Your Spirit: The Importance of Rest and Renewal in Faith and Fitness"
 description: "In a world that constantly pushes us to do more and go faster, embracing the power of rest and renewal becomes essential for nurturing both our body and spirit through faith and fitness."
 category:
   - spirit
 tags:
-  - minimalism
-  - expenses
-  - freedom
+  - rest
+  - faith
+  - fitness
 pubDate: 2024-10-22
-cover: "../assets/images/debt-freedom-strategies.webp"
+cover: "../assets/images/restoring-your-spirit-the-importance-of-rest-and-renewal-in-faith-and-fitness.webp"
 author: Damien Wright
 draft: true
 ---

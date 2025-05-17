@@ -11,7 +11,7 @@ tags:
 pubDate: 2025-04-25
 cover: "../assets/images/praying-for-strength-invoking-faith-during-intense-workouts.webp"
 author: Damien Wright
-draft: true
+draft: false
 ---
 
 The challenge of pushing your body to new limits, enduring fatigue, and overcoming mental barriers can be daunting. But what if, amid the sweat and strain, you turned to prayer and faith as your sources of inspiration? What if invoking divine strength became an integral part of your workout, transforming it from a mere physical effort into an act of worship and trust?

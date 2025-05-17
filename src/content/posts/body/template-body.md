@@ -1,6 +1,7 @@
 ---
 slug: body
 title: ""
+title: ""
 description: ""
 category:
   - body

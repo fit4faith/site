@@ -9,7 +9,7 @@ tags:
   - fitness
   - journey
 pubDate: 2024-09-22
-cover: "../assets/images/.webp"
+cover: "../assets/images/nurturing-your-spirit-how-faith-fuels-your-fitness-journey.webp"
 author: Damien Wright
 draft: false
 ---

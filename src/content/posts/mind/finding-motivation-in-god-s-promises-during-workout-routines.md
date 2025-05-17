@@ -8,7 +8,7 @@ tags:
   - motivation
   - promises
   - workout
-pubDate: 2023-08-20
+pubDate: 2024-12-20
 cover: "../assets/images/finding-motivation-in-god-s-promises-during-workout-routines.webp"
 author: Damien Wright
 draft: false

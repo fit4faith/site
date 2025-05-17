@@ -1,7 +1,7 @@
 ---
 slug: nurturing-your-spirit-how-faith-fuels-your-fitness-journey
 title: "Nurturing Your Spirit: How Faith Fuels Your Fitness Journey"
-description: "Embarking on a fitness journey is often seen as a physical endeavor—lifting weights, running miles, tracking calories, and pushing through the burn. "
+description: "Embarking on a fitness journey is often seen as a physical endeavor—lifting weights, running miles, tracking calories, and pushing through the burn."
 category:
   - spirit
 tags:
